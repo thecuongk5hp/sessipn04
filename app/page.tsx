@@ -1,6 +1,6 @@
 import React from 'react'
 import Bai1 from './baitap/Bai1'
-import B2 from './baitap/Contact/B2'
+import B2 from './baitap/Contact/page'
 export default function page() {
   return (
     <div>
